@@ -1,5 +1,8 @@
 # cs176a-proj05
 
+If you are actually able to understand what
+random garbage this is, you are cool.
+
 ## Build Instructions
 
 ### Prerequisites
